@@ -1,0 +1,21 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.listItem {
+  border: 1px solid black;
+  text-align: center;
+  display: block;
+  width: fit-content;
+}
+
+.submit {
+  margin-top: 10px;
+  display: block;
+}
+
+input {
+  padding: 5px;
+  margin: 10px;
+}
